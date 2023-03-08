@@ -7,6 +7,6 @@ replicaCount: 3
 env: dev
 
 image:
-  tag: 9153cb92
+  tag: bc5054b0
   repository: 721179837781.dkr.ecr.ap-northeast-2.amazonaws.com/demo-frontend
   pullPolicy: IfNotPresent
